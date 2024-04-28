@@ -8,5 +8,3 @@ EXEC dbo.AmirzaProject @ln='3,5,7', @ch=N'ل,د,ک,ی';
 EXEC dbo.AmirzaProject @ln='3,4,7', @ch=N'ک,ه,س,آ,ا';
 
 همچنین یک دیکشنری فارسی به فارسی نیز قرار داده شده است.
-
-بکاپ دیتابیس و سورس کد Stored Procedure به زودی آپلود میشود.
